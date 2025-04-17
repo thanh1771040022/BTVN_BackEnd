@@ -1,0 +1,14 @@
+D:\BTVN_BackEnd\Lab1_3\C3\bin\Debug\net9.0\C3.exe
+D:\BTVN_BackEnd\Lab1_3\C3\bin\Debug\net9.0\C3.deps.json
+D:\BTVN_BackEnd\Lab1_3\C3\bin\Debug\net9.0\C3.runtimeconfig.json
+D:\BTVN_BackEnd\Lab1_3\C3\bin\Debug\net9.0\C3.dll
+D:\BTVN_BackEnd\Lab1_3\C3\bin\Debug\net9.0\C3.pdb
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\C3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\C3.AssemblyInfoInputs.cache
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\C3.AssemblyInfo.cs
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\C3.csproj.CoreCompileInputs.cache
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\C3.dll
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\refint\C3.dll
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\C3.pdb
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\C3.genruntimeconfig.cache
+D:\BTVN_BackEnd\Lab1_3\C3\obj\Debug\net9.0\ref\C3.dll

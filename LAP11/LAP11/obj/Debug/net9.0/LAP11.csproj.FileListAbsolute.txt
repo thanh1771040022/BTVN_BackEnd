@@ -1,0 +1,14 @@
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\LAP11.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\LAP11.AssemblyInfoInputs.cache
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\LAP11.AssemblyInfo.cs
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\LAP11.csproj.CoreCompileInputs.cache
+D:\BTVN_BackEnd\LAP11\LAP11\bin\Debug\net9.0\LAP11.exe
+D:\BTVN_BackEnd\LAP11\LAP11\bin\Debug\net9.0\LAP11.deps.json
+D:\BTVN_BackEnd\LAP11\LAP11\bin\Debug\net9.0\LAP11.runtimeconfig.json
+D:\BTVN_BackEnd\LAP11\LAP11\bin\Debug\net9.0\LAP11.dll
+D:\BTVN_BackEnd\LAP11\LAP11\bin\Debug\net9.0\LAP11.pdb
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\LAP11.dll
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\refint\LAP11.dll
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\LAP11.pdb
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\LAP11.genruntimeconfig.cache
+D:\BTVN_BackEnd\LAP11\LAP11\obj\Debug\net9.0\ref\LAP11.dll

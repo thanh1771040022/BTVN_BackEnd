@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTVN_BackEnd\\LAP11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB4D8A8-376E-4778-80C6-D4A799A6BA85}|C10\\C10.csproj|d:\\btvn_backend\\lap11\\c10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEB4D8A8-376E-4778-80C6-D4A799A6BA85}|C10\\C10.csproj|solutionrelative:c10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6D5CC5-3AEF-4146-8193-47FD294F3252}|C9\\C9.csproj|d:\\btvn_backend\\lap11\\c9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6D5CC5-3AEF-4146-8193-47FD294F3252}|C9\\C9.csproj|solutionrelative:c9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380DF158-18F9-4889-8519-4BBCAB53B9D9}|C1\\C1.csproj|d:\\btvn_backend\\lap11\\c1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380DF158-18F9-4889-8519-4BBCAB53B9D9}|C1\\C1.csproj|solutionrelative:c1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B103EB-A49D-472F-B50B-125E221F8BC1}|C8\\C8.csproj|d:\\btvn_backend\\lap11\\c8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B103EB-A49D-472F-B50B-125E221F8BC1}|C8\\C8.csproj|solutionrelative:c8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E165FD-672A-4392-A6E9-152715854B15}|C7\\C7.csproj|d:\\btvn_backend\\lap11\\c7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E165FD-672A-4392-A6E9-152715854B15}|C7\\C7.csproj|solutionrelative:c7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE28CAC-22CA-4D42-ACB2-39C3A2B019EF}|C6\\C6.csproj|d:\\btvn_backend\\lap11\\c6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE28CAC-22CA-4D42-ACB2-39C3A2B019EF}|C6\\C6.csproj|solutionrelative:c6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A320EE-A7BF-4CC4-A124-11A5321D3044}|C5\\C5.csproj|d:\\btvn_backend\\lap11\\c5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A320EE-A7BF-4CC4-A124-11A5321D3044}|C5\\C5.csproj|solutionrelative:c5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D74D2A4-AC03-4804-8173-1633012711C2}|C4\\C4.csproj|d:\\btvn_backend\\lap11\\c4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D74D2A4-AC03-4804-8173-1633012711C2}|C4\\C4.csproj|solutionrelative:c4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8DB371-9477-428C-AA1B-530BD738F9CA}|C3\\C3.csproj|d:\\btvn_backend\\lap11\\c3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8DB371-9477-428C-AA1B-530BD738F9CA}|C3\\C3.csproj|solutionrelative:c3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281882F0-6124-4EDB-80AD-7E929D7B1943}|C2\\C2.csproj|d:\\btvn_backend\\lap11\\c2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281882F0-6124-4EDB-80AD-7E929D7B1943}|C2\\C2.csproj|solutionrelative:c2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31FDD099-1120-4A15-8C96-BF52280EFB98}|LAP11\\LAP11.csproj|d:\\btvn_backend\\lap11\\lap11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31FDD099-1120-4A15-8C96-BF52280EFB98}|LAP11\\LAP11.csproj|solutionrelative:lap11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C10\\Program.cs",
+              "RelativeDocumentMoniker": "C10\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C10\\Program.cs",
+              "RelativeToolTip": "C10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T02:00:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C9\\Program.cs",
+              "RelativeDocumentMoniker": "C9\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C9\\Program.cs",
+              "RelativeToolTip": "C9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:59:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C8\\Program.cs",
+              "RelativeDocumentMoniker": "C8\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C8\\Program.cs",
+              "RelativeToolTip": "C8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:58:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C7\\Program.cs",
+              "RelativeDocumentMoniker": "C7\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C7\\Program.cs",
+              "RelativeToolTip": "C7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:57:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C6\\Program.cs",
+              "RelativeDocumentMoniker": "C6\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C6\\Program.cs",
+              "RelativeToolTip": "C6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:57:10.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C5\\Program.cs",
+              "RelativeDocumentMoniker": "C5\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C5\\Program.cs",
+              "RelativeToolTip": "C5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:56:32.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C4\\Program.cs",
+              "RelativeDocumentMoniker": "C4\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C4\\Program.cs",
+              "RelativeToolTip": "C4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:55:49.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C3\\Program.cs",
+              "RelativeDocumentMoniker": "C3\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C3\\Program.cs",
+              "RelativeToolTip": "C3\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:54:35.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C2\\Program.cs",
+              "RelativeDocumentMoniker": "C2\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C2\\Program.cs",
+              "RelativeToolTip": "C2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:52:51.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\C1\\Program.cs",
+              "RelativeDocumentMoniker": "C1\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\C1\\Program.cs",
+              "RelativeToolTip": "C1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:50:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTVN_BackEnd\\LAP11\\LAP11\\Program.cs",
+              "RelativeDocumentMoniker": "LAP11\\Program.cs",
+              "ToolTip": "D:\\BTVN_BackEnd\\LAP11\\LAP11\\Program.cs",
+              "RelativeToolTip": "LAP11\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:47:42.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

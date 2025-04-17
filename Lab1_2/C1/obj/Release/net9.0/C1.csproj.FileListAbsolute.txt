@@ -1,0 +1,14 @@
+D:\BTVN_BackEnd\Lab1_2\C1\bin\Release\net9.0\C1.exe
+D:\BTVN_BackEnd\Lab1_2\C1\bin\Release\net9.0\C1.deps.json
+D:\BTVN_BackEnd\Lab1_2\C1\bin\Release\net9.0\C1.runtimeconfig.json
+D:\BTVN_BackEnd\Lab1_2\C1\bin\Release\net9.0\C1.dll
+D:\BTVN_BackEnd\Lab1_2\C1\bin\Release\net9.0\C1.pdb
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\C1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\C1.AssemblyInfoInputs.cache
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\C1.AssemblyInfo.cs
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\C1.csproj.CoreCompileInputs.cache
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\C1.dll
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\refint\C1.dll
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\C1.pdb
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\C1.genruntimeconfig.cache
+D:\BTVN_BackEnd\Lab1_2\C1\obj\Release\net9.0\ref\C1.dll
